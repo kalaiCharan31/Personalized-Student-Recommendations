@@ -15,3 +15,6 @@ Project files:-
 >> test_api.py: Script for testing the Flask API endpoints
 
 >> templates/index.html: HTML template for the web interface
+
+Sample Video Link:
+https://drive.google.com/file/d/1ShLmsOR6AooRL0qkvOFwmwHZlbco1nft/view?usp=sharing
